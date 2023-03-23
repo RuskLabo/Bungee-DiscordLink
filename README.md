@@ -1,0 +1,2 @@
+# Bungee-DiscordLink
+BungeeCord Plugin
