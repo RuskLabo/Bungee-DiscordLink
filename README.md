@@ -3,7 +3,7 @@
 
 ---
 ## 仕様
-*BunggeCordのDiscordLinkプラグインです
+BunggeCordのDiscordLinkプラグインです
 
 ## ダウンロード
 [リリース](https://github.com/RuskLabo/Bungee-DiscordLink/releases)からjarファイルをダウンロードしてください
